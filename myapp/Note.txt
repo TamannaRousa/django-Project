@@ -1,0 +1,22 @@
+python .\manage.py runserver
+
+Project structure
+URLs
+Views
+Templates
+Models- CRUD OPERATIONS
+
+user-->Urls--->views---(can send dynamic data also)--->about.html-->[page]----->user
+
+
+1.MVT design pattern
+2.env setup installation
+3.working with django Templates
+4.Sending data from views to Templates
+5.working with db and django Models
+6.creating employee mngt apps
+7.working with django admin , admin customizations
+8.Creating testinmonial apps
+9.Working with django forms
+
+#django model query methods in terminal for model data
